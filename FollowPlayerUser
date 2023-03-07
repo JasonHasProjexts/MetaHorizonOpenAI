@@ -1,0 +1,4 @@
+Start()
+RespondListen(" Hey Farmer Joe, Follow Me/Follow Us")
+Emulate.Hold.W.OnKeyPress
+Find.("PlazaCubeMeshFlooring") if null ("VenuesCubeMeshFlooring") if null ("ArcadeCubeMeshFlooring")
